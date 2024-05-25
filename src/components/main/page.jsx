@@ -1,10 +1,10 @@
 import React from 'react'
 import "./Main.scss"
 import Image from 'next/image'
-import CategoryImg1 from '@/app/assets/Icon.png'
-import CategoryImg2 from '@/app/assets/Icon1.png'
-import CategoryImg3 from '@/app/assets/Icon2.png'
-import CategoryImg4 from '@/app/assets/business.png'
+import CategoryImg1 from '@/app/assets/icon.png'
+import CategoryImg2 from '@/app/assets/icon1.png'
+import CategoryImg3 from '@/app/assets/icon2.png'
+import CategoryImg4 from '@/app/assets/icon3.png'
 
 function Main() {
   return (

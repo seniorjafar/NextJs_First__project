@@ -1,7 +1,8 @@
 
-
 import React from 'react'
 import Navbar from '@/components/navbar/page'
+
+import '@/app/blog/Blog.scss'
 
 function Blog() {
   return (
